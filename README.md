@@ -22,3 +22,7 @@ jupyter notebook notebooks/
 ```
 
 Data is loaded from public URLs, so no local data files are needed.
+
+## A note on AI use
+
+I use [Claude Code](https://claude.com/claude-code) to help manage this repository (organizing files, writing this README, and handling git). All of the code, analysis, and writing inside the notebooks is my own work.
